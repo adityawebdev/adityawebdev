@@ -13,7 +13,7 @@ I am currently working on a social media platform.<br>I am currently learning Sv
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityawebdev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ## Those who don't move , don't know the weight of their chains.
 
 ### 🔝 Top Contributed Repo
