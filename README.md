@@ -6,7 +6,7 @@ I am currently working on a social media platform.<br>I am currently learning Sv
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/law.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sinha-05776b254) 
 
-##Sometimes I feel like
+## Sometimes I feel like
 <img src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp?cid=ecf05e47pryv8vnaql8m52r680splu4u855avmrwewga24l1&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
 
 # 💻 Tech Stack:
