@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🧑‍💻I am currently working on a fitness and wellness app.<br>😀 I am currently learning Svelte.<br>🎓 I am a Graduate in CS Hons. from Delhi University.<br>🧑‍💻 I am a full-stack developer.<br>📖 I am currently looking for a partner to prepare for Data Structures and Algorithms
+🧑‍💻I am currently working on a password manager app.<br>😀 I am currently pursuing MCA.<br>🎓 I am a Graduate in CS Hons. from Delhi University.<br>🧑‍💻 I am a full-stack developer.<br>📖 I am currently learning  Data Structures and Algorithms
 
 
 ## 🌐 Socials:
