@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/law.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sinha-05776b254) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/law.here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sinha-05776b254) [![Leetcode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)]((https://leetcode.com/adityasinha3201/))
 
 ## Whenever I found a bug
 <img src="https://media1.tenor.com/images/80102550479835807fdd8ab3cbab2565/tenor.gif?itemid=15731367"/>
